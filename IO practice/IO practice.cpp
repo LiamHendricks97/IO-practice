@@ -12,7 +12,7 @@ int main()
     std::cin >> number_one;
     std::cout << "Please enter second integer: ";
     std::cin >> number_two;
-    std::cout << "Test"
+    std::cout << "Test";
 
     std::cout << "Your numbers are " << number_one << " and " << number_two;
     return 0;
